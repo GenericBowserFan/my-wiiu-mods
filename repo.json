@@ -1,0 +1,78 @@
+{
+  "name": "my-wiiu-mods",
+  "author": "Generic Bowser Fan",
+  "packages": [
+    {
+      "id": "AllStars Over SMB",
+      "author": "Generic Bowser Fan",
+      "version": "1.0.0",
+      "game_titleid": "000500001018dc00",
+      "download": "",
+      "type": "mod"
+    },
+    {
+      "id": "Mario Maker E3 Mod",
+      "author": "Generic Bowser Fan",
+      "version": "1.0.0",
+      "game_titleid": "000500001018dc00",
+      "download": "",
+      "type": "mod"
+    },
+    {
+      "id": "NES Super Mario Bros Style",
+      "author": "Generic Bowser Fan",
+      "version": "1.0.0",
+      "game_titleid": "000500001018dc00",
+      "download": "",
+      "type": "mod"
+    },
+    {
+      "id": "No Shadows",
+      "author": "Generic Bowser Fan",
+      "version": "1.0.0",
+      "game_titleid": "000500001018dc00",
+      "download": "",
+      "type": "mod"
+    },
+    {
+      "id": "NSMBDS Over NSMBU",
+      "author": "Generic Bowser Fan",
+      "version": "1.0.0",
+      "game_titleid": "000500001018dc00",
+      "download": "",
+      "type": "mod"
+    },
+    {
+      "id": "NSMBWii Over NSMBU",
+      "author": "Generic Bowser Fan",
+      "version": "1.0.0",
+      "game_titleid": "000500001018dc00",
+      "download": "",
+      "type": "mod"
+    },
+    {
+      "id": "SML Over SMB",
+      "author": "Generic Bowser Fan",
+      "version": "1.0.0",
+      "game_titleid": "000500001018dc00",
+      "download": "",
+      "type": "mod"
+    },
+    {
+      "id": "SML2 Over SMB3",
+      "author": "Generic Bowser Fan",
+      "version": "1.0.0",
+      "game_titleid": "000500001018dc00",
+      "download": "",
+      "type": "mod"
+    },
+    {
+      "id": "Super Luigi Maker",
+      "author": "Generic Bowser Fan",
+      "version": "1.0.0",
+      "game_titleid": "000500001018dc00",
+      "download": "",
+      "type": "mod"
+    }
+  ]
+}
